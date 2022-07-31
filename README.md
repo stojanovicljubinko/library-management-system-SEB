@@ -3,7 +3,7 @@ Project implemented at the University of Synergy. The electronic library system 
 
 The program works on the principle of user / administrator, where logging in takes place on separate windows in the program, the user with a username and password, and the administrator with a name, surname and password, user registration is also enabled. 
 
-###The administrator has the following capabilities:
+### The administrator has the following capabilities:
 * dashboard - display of the number of available books, display of the number of administrators and users added to the electronic library system.
 * display of available books in the electronic library system
 * adding books to the electronic library system (title, subtitle, author, publisher, publication date and so on and adding a file (.docx, .txt, .pdf, .mp3 and so on) - any file format is available)
