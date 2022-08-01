@@ -22,3 +22,41 @@ Effects in the form of disappearing squares in different colors appear on the wi
 * Literature quiz and X-OX- where the user can play a mini game
 * Send a message - where the user can send feedback about a bug or a question
 * PRIČAONICA - a special segment of the electronic library system for users, where communication is enabled for all users currently active in the electronic library system - user interface, with interesting emoticons, gifs, etc.
+
+### Diagram of a given program 
+
+![Diagram of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/diagram.png)
+
+
+### Screenshot of a given program 
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/7.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/8.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/9.png)
+ 
+   ## Screenshot of a given program - administrator interface
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/10.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/11.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/12.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/13.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/14.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/15.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/16.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/17.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/18.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/19.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/20.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/21.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/22.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/23.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/24.png)
+ 
+ ## Screenshot of a given program - user interface
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/1.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/5.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/6.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/2.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/3.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/library-management-system-SEB/blob/main/slike/4.png)
+ 
+
+
