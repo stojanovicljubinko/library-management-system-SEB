@@ -1,5 +1,5 @@
 # Library management system - SEB
-Project implemented at the University of Synergy. The electronic library system is a user-administrator program for referencing books on a computer, where the reader (user or administrator) can view all books in one place. The administrator and the user have separate interfaces, with different possibilities, also in addition to adding, editing books, reading books (.txt and .pdf formats), various entertainment contents are also available. 
+Project implemented at the University Sinergija. The electronic library system is a user-administrator program for referencing books on a computer, where the reader (user or administrator) can view all books in one place. The administrator and the user have separate interfaces, with different possibilities, also in addition to adding, editing books, reading books (.txt and .pdf formats), various entertainment contents are also available. 
 
 The program works on the principle of user / administrator, where logging in takes place on separate windows in the program, the user with a username and password, and the administrator with a name, surname and password, user registration is also enabled. 
 
